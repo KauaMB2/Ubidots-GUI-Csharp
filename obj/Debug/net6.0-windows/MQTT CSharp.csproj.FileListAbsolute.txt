@@ -1,0 +1,17 @@
+C:\Users\Rafael\Desktop\MQTT CSharp\bin\Debug\net6.0-windows\MQTT CSharp.exe
+C:\Users\Rafael\Desktop\MQTT CSharp\bin\Debug\net6.0-windows\MQTT CSharp.deps.json
+C:\Users\Rafael\Desktop\MQTT CSharp\bin\Debug\net6.0-windows\MQTT CSharp.runtimeconfig.json
+C:\Users\Rafael\Desktop\MQTT CSharp\bin\Debug\net6.0-windows\MQTT CSharp.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\bin\Debug\net6.0-windows\MQTT CSharp.pdb
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\refint\MQTT CSharp.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.pdb
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\ref\MQTT CSharp.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.csproj.CopyComplete
+C:\Users\Rafael\Desktop\MQTT CSharp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
