@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ifcm3ukOU14+d+RE7wBJy3olDS5BaTx51U7/Ea4Sh5in+T3H1ybvCsOk3jFayV8kZVQX5fqfRjIbTALFDEkmxg==",
+  "dgSpecHash": "cVl/AhUeArJchJBXRhaScXYr7PdddoEABasCuoKkkhUZsTo+6NpBffcFrv68l2/EoctQKgfijWm/Jxm8ZyFBFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\MQTT CSharp\\MQTT CSharp.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\MQTT CSharp - Cópia\\MQTT CSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],

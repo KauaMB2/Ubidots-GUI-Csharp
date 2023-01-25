@@ -73,6 +73,7 @@ public partial class Form1{
         vUmidade = new TextBox();
         printVelocidade = new Label();
 
+        
 
         btnEnviar1.Text = "Enviar";
         btnEnviar1.ForeColor = System.Drawing.Color.Blue;

@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\MQTT CSharp\\MQTT CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\MQTT CSharp - Cópia\\MQTT CSharp.csproj",
       "projectName": "MQTT CSharp",
-      "projectPath": "C:\\Users\\Rafael\\Desktop\\MQTT CSharp\\MQTT CSharp.csproj",
+      "projectPath": "C:\\Users\\Rafael\\Desktop\\MQTT CSharp - Cópia\\MQTT CSharp.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael\\Desktop\\MQTT CSharp\\obj\\",
+      "outputPath": "C:\\Users\\Rafael\\Desktop\\MQTT CSharp - Cópia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
