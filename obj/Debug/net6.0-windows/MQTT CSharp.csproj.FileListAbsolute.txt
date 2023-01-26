@@ -15,5 +15,25 @@ C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.genrunt
 C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\ref\MQTT CSharp.dll
 C:\Users\Rafael\Desktop\MQTT CSharp\obj\Debug\net6.0-windows\MQTT CSharp.csproj.CopyComplete
 C:\Users\Rafael\Desktop\MQTT CSharp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+<<<<<<< HEAD
 C:\Users\Rafael\Desktop\MQTT CSharp\bin\Debug\net6.0-windows\M2Mqtt.Net.dll
 C:\Users\Rafael\Desktop\MQTT CSharp\bin\Debug\net6.0-windows\Ubidots.dll
+=======
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\bin\Debug\net6.0-windows\MQTT CSharp.exe
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\bin\Debug\net6.0-windows\MQTT CSharp.deps.json
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\bin\Debug\net6.0-windows\MQTT CSharp.runtimeconfig.json
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\bin\Debug\net6.0-windows\MQTT CSharp.dll
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\bin\Debug\net6.0-windows\MQTT CSharp.pdb
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\MQTT CSharp.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\MQTT CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\MQTT CSharp.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\MQTT CSharp.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\MQTT CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\MQTT CSharp.csproj.CopyComplete
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\MQTT CSharp.dll
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\refint\MQTT CSharp.dll
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\MQTT CSharp.pdb
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\MQTT CSharp.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\MQTT CSharp - Cópia\obj\Debug\net6.0-windows\ref\MQTT CSharp.dll
+>>>>>>> a004d9488a117c58fb7f14595c447b749bac6e4d
