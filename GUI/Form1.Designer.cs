@@ -73,6 +73,7 @@ public partial class Form1{
         vUmidade = new TextBox();
         printVelocidade = new Label();
 
+        
 
         btnEnviar1.Text = "Enviar";
         btnEnviar1.ForeColor = System.Drawing.Color.Blue;
@@ -136,6 +137,9 @@ public partial class Form1{
         Controls.Add(printUmidade2);
         Controls.Add(printVelocidade);
         Controls.Add(printAceleracao);
+
+        FormBorderStyle = FormBorderStyle.FixedSingle;//Desable the Resizable of the GUI
+        MaximizeBox=false;// Prevent the GUI be maximized
         
     }
 }
