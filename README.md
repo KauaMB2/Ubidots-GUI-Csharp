@@ -2,11 +2,11 @@
 
 > It is a GUI made in CSharp that allows you send and receive data from Ubidots API.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/MQTT-Flask-Websockets?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/MQTT-Flask-Websockets?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/KauaMB2/MQTT-Flask-Websockets?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/MQTT-Flask-Websockets?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/MQTT-Flask-Websockets?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Ubidots-GUI-Csharp?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Ubidots-GUI-Csharp?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/KauaMB2/Ubidots-GUI-Csharp?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Ubidots-GUI-Csharp?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Ubidots-GUI-Csharp?style=for-the-badge)
 
 <hr>
 
